@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "857671653911",
+    "firebase_url": "https://relation-page-dynamic.firebaseio.com",
+    "project_id": "relation-page-dynamic",
+    "storage_bucket": "relation-page-dynamic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857671653911:android:afbb015341ae0db0",
+        "android_client_info": {
+          "package_name": "com.example.vedantmehra.relationpagedynamicinvestor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857671653911-apngr241dibdrh248d7m44mkcv7seb9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vedantmehra.relationpagedynamicinvestor",
+            "certificate_hash": "4436de1153a4b98a8bdd15b0a018e04b6b63d4bd"
+          }
+        },
+        {
+          "client_id": "857671653911-cbcr769l735bhdv71p3p1soo91gdgmdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRiIoZeOh9DaZ2iNC4Kptm2GGzQ4floWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857671653911-cbcr769l735bhdv71p3p1soo91gdgmdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
